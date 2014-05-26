@@ -5,19 +5,31 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
 	<string>981D3EEC-3FFF-4C39-AFD3-D45D22933864</string>
+=======
+	<string>95A842B4-01A2-42B4-9D5E-A36A2BC2343C</string>
+>>>>>>> 21dd50c1728633eec9f103bfd764812e792264b3
 	<key>IDESourceControlProjectName</key>
 	<string>Hotel project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+<<<<<<< HEAD
 		<key>1C89051D-AE5F-4F35-9D2F-E0C92E451DD3</key>
+=======
+		<key>26D4930F-26EC-4CBC-93C6-CEDBA1C18FDC</key>
+>>>>>>> 21dd50c1728633eec9f103bfd764812e792264b3
 		<string>https://github.com/s1ha9ff9le2/hotel-project.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Hotel project/Hotel project.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+<<<<<<< HEAD
 		<key>1C89051D-AE5F-4F35-9D2F-E0C92E451DD3</key>
+=======
+		<key>26D4930F-26EC-4CBC-93C6-CEDBA1C18FDC</key>
+>>>>>>> 21dd50c1728633eec9f103bfd764812e792264b3
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,16 +37,26 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
+<<<<<<< HEAD
 	<string>1C89051D-AE5F-4F35-9D2F-E0C92E451DD3</string>
+=======
+	<string>26D4930F-26EC-4CBC-93C6-CEDBA1C18FDC</string>
+>>>>>>> 21dd50c1728633eec9f103bfd764812e792264b3
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
+<<<<<<< HEAD
 			<string>1C89051D-AE5F-4F35-9D2F-E0C92E451DD3</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Kursovik</string>
+=======
+			<string>26D4930F-26EC-4CBC-93C6-CEDBA1C18FDC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>hotel-project</string>
+>>>>>>> 21dd50c1728633eec9f103bfd764812e792264b3
 		</dict>
 	</array>
 </dict>
