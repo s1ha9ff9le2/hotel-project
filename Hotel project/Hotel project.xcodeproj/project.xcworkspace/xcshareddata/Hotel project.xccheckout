@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>673ED765-D3E8-4CA1-8F64-4B1B09C53D22</string>
+	<string>981D3EEC-3FFF-4C39-AFD3-D45D22933864</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Hotel project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>ED9F2A06-FCCD-495B-BAA3-DB004C203960</key>
-		<string>https://github.com/s1ha9ff9le2/kursovik.git</string>
+		<key>1C89051D-AE5F-4F35-9D2F-E0C92E451DD3</key>
+		<string>https://github.com/s1ha9ff9le2/hotel-project.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Hotel project/Hotel project.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>ED9F2A06-FCCD-495B-BAA3-DB004C203960</key>
+		<key>1C89051D-AE5F-4F35-9D2F-E0C92E451DD3</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/s1ha9ff9le2/kursovik.git</string>
+	<string>https://github.com/s1ha9ff9le2/hotel-project.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>ED9F2A06-FCCD-495B-BAA3-DB004C203960</string>
+	<string>1C89051D-AE5F-4F35-9D2F-E0C92E451DD3</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>ED9F2A06-FCCD-495B-BAA3-DB004C203960</string>
+			<string>1C89051D-AE5F-4F35-9D2F-E0C92E451DD3</string>
 			<key>IDESourceControlWCCName</key>
-			<string>kursovik</string>
+			<string>Kursovik</string>
 		</dict>
 	</array>
 </dict>
