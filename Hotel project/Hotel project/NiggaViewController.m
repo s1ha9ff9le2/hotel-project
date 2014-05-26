@@ -26,7 +26,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    NSlog@"";
+    NSlog(@"vot tak vot pravilno");
 	// Do any additional setup after loading the view.
 }
 
